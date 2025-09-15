@@ -7,3 +7,5 @@ FROM table_name;
 
 
 -- creaza un user
+
+-- am fixat bugul 
